@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Create axios instance with base configuration
 export const api = axios.create({
-    baseURL: 'https://quickmark-backend-vcls.onrender.com/api',
+    baseURL: 'https://quickmark-backend-deploy1.onrender.com/api',
     headers: {
         'Content-Type': 'application/json',
     },

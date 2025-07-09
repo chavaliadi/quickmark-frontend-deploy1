@@ -1,5 +1,5 @@
 // API utility for admin frontend
-const API_BASE_URL = 'https://quickmark-backend-vcls.onrender.com/api';
+const API_BASE_URL = 'https://quickmark-backend-deploy1.onrender.com/api';
 
 // Helper function to handle API responses
 const handleResponse = async (response) => {
